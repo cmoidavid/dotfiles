@@ -1,0 +1,30 @@
+[user]
+	email = david.moreau@thalesaleniaspace.com
+	name = David Moreau
+[http]
+	sslVerify = false
+	proxyauthmethod = basic
+[color]
+	ui = true
+[alias]
+	l = log --graph --pretty=format:'%h : %s' --date-order
+	br = branch -vv
+	co = checkout
+[merge]
+	tool = vimdiff
+
+[difftool]
+	prompt = false
+[diff]
+	tool = vimdiff
+[core]
+	excludesfile = /exports/home/dmoreau/.global_ignore
+	filemode = false
+	editor = vim
+	autocrlf = false
+[push]
+	default = tracking
+[branch "master"]
+	rebase = true # un git pull sur master devient un rebase
+[credential]
+	helper = cache

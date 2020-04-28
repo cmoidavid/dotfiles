@@ -1,0 +1,12 @@
+"set clipboard=unnamedplus
+syn on
+set background=dark
+colorscheme monokai
+filetype indent on
+set number
+set hlsearch
+set showmatch " jump to matches when entering regexp
+set ignorecase " ignore case when searching
+set smartcase " no ignorecase if Uppercase char present
+" Highlight current line
+set cursorline

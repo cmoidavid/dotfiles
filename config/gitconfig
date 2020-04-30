@@ -28,3 +28,5 @@
 	rebase = true # un git pull sur master devient un rebase
 [credential]
 	helper = cache
+[url "ssh://git@jxdm.fr:2222/"]
+	insteadof = "ssh://git@git.a9780.tas/"

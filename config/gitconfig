@@ -22,6 +22,7 @@
 	filemode = false
 	editor = vim
 	autocrlf = false
+	pager = 
 [push]
 	default = tracking
 [branch "master"]
@@ -30,3 +31,5 @@
 	helper = cache
 [url "ssh://git@jxdm.fr:2222/"]
 	insteadof = "ssh://git@git.a9780.tas/"
+[commit]
+	verbose = true

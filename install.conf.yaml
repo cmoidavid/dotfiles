@@ -18,5 +18,6 @@
     ~/.oh-my-zsh: ohmyzsh/
     ~/.oh-my-zsh/custom/themes/powerlevel10k: powerlevel10k/
     ~/.p10k.zsh: config/p10k.zsh
+    ~/.keeagent-wsl.sh: config/keeagent-wsl.sh
 
 

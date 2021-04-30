@@ -9,15 +9,8 @@
 - link:
     ~/.tmux.conf: config/tmux.conf
     ~/.gitconfig: config/gitconfig
-    ~/.config/Code/User/settings.json: config/vscode_settings.json
-    ~/.config/Code/User/keybindings.json: config/vscode_keybindings.json
     ~/.vimrc: config/vimrc
     ~/.vim/pack/plugins/start/vim-toml: vim/vim-toml
     ~/.vim/colors/monokai.vim: vim/monokai.vim
-    ~/.zshrc: config/zshrc
-    ~/.oh-my-zsh: ohmyzsh/
-    ~/.oh-my-zsh/custom/themes/powerlevel10k: powerlevel10k/
-    ~/.p10k.zsh: config/p10k.zsh
-    ~/.keeagent-wsl.sh: config/keeagent-wsl.sh
 
 

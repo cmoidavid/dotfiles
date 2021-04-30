@@ -5,9 +5,3 @@
 [submodule "vim/vim-toml"]
 	path = vim/vim-toml
 	url = https://github.com/cespare/vim-toml.git
-[submodule "ohmyzsh"]
-	path = ohmyzsh
-	url = https://github.com/ohmyzsh/ohmyzsh.git
-[submodule "powerlevel10k"]
-	path = powerlevel10k
-	url = https://github.com/romkatv/powerlevel10k.git
